@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-doc_file=docs/master.adoc
+doc_file=docs/README.md
 
 printf "Words: %13s\n"      $(wc --words $doc_file | cut -f 1 -d ' ')
 printf "Characters: %8s\n"  $(wc --chars $doc_file | cut -f 1 -d ' ')
