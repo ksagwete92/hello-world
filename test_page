@@ -1,0 +1,33 @@
+DITA
+What does DITA stand for?
+DITA stands for Darwin Information Typing Architect, an XML based architecture for authoring, producing and delivering information.
+What is a relationship table?
+Relationship tables are a way to link topics together into a collection. Linked relationships are illustrated in a table structure. The rows o the table are used to determine which topics link together.
+A common table has 3 columns, one for concept topics, one for task topics, and for reference topics. The relationships between topics with different information type are specified within the relationship table (reltable) rows. 
+
+What does specialization mean?
+Specialization is the process of creating new designs based of off existing designs. You can use existing rules and processes to create new type of content. Specialization can be utilized in the content, design and or processing. 
+
+What are the pros and cons of using DITA?
+
+PROS
+open standard	
+Open source	
+Scalable (start on file system, move to enterprise CMS if required)	
+Easy to un	
+User groups are plentiful, so a lot of help at hand
+
+CONS
+Difficult to learn and understand
+Hard to customize
+Only a few open source tools
+Enterprise solutions are expensive
+Customizing output can be very difficult
+
+How are DITA-based documents published?
+Because DITA is an open standard, the options for publishing are numerous. DITA documents can be published using open source, free tools and commercial tools. Once you have written your documents, you can publish them though various formats, such as Print, Web, Mobile, Help systems, etc.
+What tools are used to create DITA documents?
+Oxygen is very good tool and my favourite tool for creating DITA documents. DITA can be used on tools such as Framemaker, Flare, Altova, Authorbridge, Author-it and many other tools such as easyDITA, used for publishing DITA documents. Because DITA works with XML, many XML editors are equipped to be able to handle DITA.
+How is DITA different to traditional authoring?
+Traditional authoring puts emphasis on writing documents. This makes it hard to reuse most information. Traditional authoring also focuses on the publishing process and final output before any writing is done. However, with DITA, the focus is on writing topics rather than documents. Also, the writing process is not linked with the publishing process, therefore you can concentrate on getting information down and look at publishing options afterward. 
+
